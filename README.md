@@ -1,6 +1,11 @@
 Fixed timezone types for Doctrine 
 =================================
 
+[![build](https://github.com/timostamm/doctrine-fixed-timezone/workflows/CI/badge.svg)](https://github.com/timostamm/doctrine-fixed-timezone/actions?query=workflow:"CI")
+![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/timostamm/doctrine-fixed-timezone/php)
+[![GitHub tag](https://img.shields.io/github/tag/timostamm/doctrine-fixed-timezone?include_prereleases=&sort=semver&color=blue)](https://github.com/timostamm/doctrine-fixed-timezone/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
 
 ### The problem
 
