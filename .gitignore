@@ -2,6 +2,7 @@
 .env
 .phpunit
 /vendor
+/composer.lock
 
 
 # IDEs and editors
