@@ -63,7 +63,7 @@ class DateTimeTypeTest extends TestCase
     /** @var SqlitePlatform */
     private $platform;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         Type::overrideType('datetime', DateTimeType::class);
         $this->type = Type::getType('datetime');
